@@ -3,3 +3,4 @@ rice
 dal
 vegitable
 
+spices
