@@ -2,9 +2,10 @@ Welcome to my food menu
 rice
 dal
 vegitable
-
 spices
-
 add2
 
 Thanks!!
+
+spoon
+glass
