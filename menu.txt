@@ -2,8 +2,10 @@ Welcome to my food menu
 rice
 dal
 vegitable
+add1
 
 spices
 
+add2
 
 Thanks!!
